@@ -10,9 +10,9 @@ import numpy as np
 
 
 st.set_page_config(
-    page_title="Financial Planning Calculator 2")
+    page_title="Financial Planning Calculator")
 
-st.title("Financial Planning Calculator")
+st.title("Virtual Financial Planning Calculator")
 
 with st.sidebar.form(key ='Form1'):
 
